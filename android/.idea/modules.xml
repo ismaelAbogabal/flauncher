@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-533264475/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-533264475/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1588337723/android.image_picker_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1588337723/android.image_picker_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-951795845/android.package_info_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-951795845/android.package_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1693755628/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1693755628/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-144368651/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-144368651/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-682922239/android.sqlite3_flutter_libs.iml" filepath="$PROJECT_DIR$/.idea/modules/-682922239/android.sqlite3_flutter_libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-670334451/android.system_clock.iml" filepath="$PROJECT_DIR$/.idea/modules/-670334451/android.system_clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/886159867/android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/886159867/android.webview_flutter_android.iml" />
+    </modules>
+  </component>
+</project>
